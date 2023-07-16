@@ -3,7 +3,7 @@
 This is a game that I made with my friends for the Global Game Jam during freshman year of college.
 We'd only been coding for a few months at this point, so it's unfinished and pretty rough around the edges, but it was a ton of fun to make!
 
-You can play it [here](mhanberry1.github.io/the-grind/)
+You can play it [here](https://mhanberry1.github.io/the-grind/)
 
 And [here's](https://globalgamejam.org/2016/games/grind-1) the original game jam link!
 
